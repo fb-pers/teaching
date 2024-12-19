@@ -1,0 +1,5 @@
+title: My Jekyll Site
+description: A simple website using Jekyll and GitHub Pages
+theme: minima
+baseurl: "" # leave this blank unless using a subpath
+url: "https://fb-pers.github.io"
